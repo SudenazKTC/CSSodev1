@@ -1,0 +1,78 @@
+:root{
+    --main-color: #363636;
+}
+
+h1{
+    color: #6c7b8b;
+}
+
+nav{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    padding: 0 6%;
+    margin: 2rem 33.2%;
+}
+
+nav li{
+    color: transparent;
+}
+
+nav li a{
+    color: #528b8b;
+}
+
+h2{
+    color: #528b8b;
+}
+
+h1,h2,h4,h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+h4,h5{
+    font-size: 18px;
+}
+
+h4 a{
+    color: #528b8b;
+}
+
+h5{
+    color: #708090;
+}
+
+p{
+    font-size: 18px;
+}
+
+ul{
+    font-size: 20px;
+    list-style-position: inside;
+    text-align: center;
+}
+  
+ol{
+    font-size: 18px;
+    list-style-position: inside;
+    text-align: center;
+}
+
+ol span{
+    font-weight: bold;
+}
+
+ol a{
+    text-decoration: none;
+    color: black;
+}
+
+ol a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+img{
+    height: 300px;;
+}
